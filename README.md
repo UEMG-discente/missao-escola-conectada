@@ -132,6 +132,12 @@ Para adicionar ou alterar uma situação, basta editar o objeto correspondente e
 - Materiais das Semanas 2, 3, 7, 8 e 14 da disciplina Tecnologias Digitais na Educação. UEMG, 2026.
 - BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD).
 
+## Licença
+
+- Código: licença MIT (ver arquivo LICENSE)
+- Conteúdo educacional (textos, situações e feedbacks): CC BY 4.0
+- Fontes Patrick Hand e Figtree: SIL Open Font License 1.1
+
 ## Créditos
 
 - **Autor:** Enzo José Oliveira Pereira
